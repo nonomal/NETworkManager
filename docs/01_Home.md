@@ -7,14 +7,13 @@ permalink: /
 ---
 
 # What is NETworkManager
-
 NETworkManager is a powerful tool for managing networks and troubleshoot network problems! It includes a variety of tools such as an IP scanner, Port Scanner, Ping Monitor, WiFi analyzer, PuTTY/RemoteDesktop with tabs or an LLDP/CDP capture (and many [more](./Features)) in a unified user interface. 
 
 <div align="center">
   <p>
     <a href='./Download'>
       <span class="fs-5">
-        <button type="button" name="button" class="btn btn-blue">:package: Download</button>
+        <button type="button" name="button" class="btn">:package: Download</button>
       </span>
     </a>    
     <a href='https://github.com/BornToBeRoot/NETworkManager' target="_blank">
